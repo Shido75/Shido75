@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Hi 👋, I'm Arihant
+A Student from India SY Bcom CA , Love the thriller of computer and Internet , IT'S MY PLEASURE TO TALK TECH EXPERT AND NERD FOR COMPUTER 
+
 🔭 I’m currently working on Web Developer <br>👯 I’m looking to collaborate on Hackathon<br>🌱 I’m currently learning Web Developer & AI Development<br>      Professional Working on Junior Web Development<br>📫 How to reach me yarihant25@gmail.com<br><br>
 
 
